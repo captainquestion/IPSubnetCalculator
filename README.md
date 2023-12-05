@@ -6,7 +6,7 @@ Additionally, the app is capable of generating random IP addresses for hosts ava
 
 ***App Demo***
 
-<img src="Demo/Markdown_Gif.gif" width="300">
+<img src="Demo/Markdown_Gif.gif">
 
 
 
